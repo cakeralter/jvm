@@ -15,4 +15,5 @@ buildNumber.properties
 *.iml
 *.hprof
 java_pid*/
+*.class
 
