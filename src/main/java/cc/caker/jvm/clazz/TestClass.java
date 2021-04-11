@@ -4,6 +4,9 @@ import java.security.InvalidParameterException;
 import java.time.LocalDateTime;
 
 /**
+ * javac TestClass.java
+ * javap -verbose TestClass.class
+ *
  * @author cakeralter
  * @date 2021/4/11
  * @since 1.0
