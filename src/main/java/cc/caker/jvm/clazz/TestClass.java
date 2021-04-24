@@ -26,4 +26,8 @@ public class TestClass {
         System.out.printf("[%d]%s signature at %s%n", sort, name, time);
         return "ok";
     }
+
+    public static void main(String[] args) {
+        System.out.println("words and 987".replaceAll("[a-zA-Z\\+\\.\\s]+", ""));
+    }
 }
